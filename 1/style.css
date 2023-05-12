@@ -1,0 +1,25 @@
+body{
+    background-color:blanchedalmond;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    text-justify:distribute;
+}

@@ -1,0 +1,12 @@
+.tituloDC{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+
+.LivrosDC{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+

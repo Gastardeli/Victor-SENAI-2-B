@@ -1,0 +1,11 @@
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+}
+
+.textos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
